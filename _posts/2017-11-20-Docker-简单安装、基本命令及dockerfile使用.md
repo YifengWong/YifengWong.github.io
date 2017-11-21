@@ -6,9 +6,6 @@ categories: docker
 tags: [docker]
 ---
 
-引言2。
-
-<!-- more -->
 
 # Docker
 
@@ -37,6 +34,7 @@ sudo systemctl daemon-reload
 sudo systemctl restart docker
 </pre>
 
+<!-- more -->
 
 ## 二、 基本命令及参数使用
 #### 1. 命令概览
