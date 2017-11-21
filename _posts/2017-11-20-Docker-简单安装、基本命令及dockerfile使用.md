@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Docker 简单安装基本命令以及Dockerfile使用"
+date: 2017-11-20
+categories: docker
+tags: [docker]
+---
+
 # Docker
 
 ## 一、 Ubuntu安装Docker 并修改镜像仓库源
